@@ -25,3 +25,5 @@ To revolutionize credential verification by leveraging blockchain technology —
 **Smart Contract Language:** Solidity  
 **Framework:** Truffle / Hardhat  
 **License:** MIT
+CONTRACT ADDRESS:0xF1C4B0A821553cA44623F11252C06a9F3626Fd53
+<img width="1426" height="281" alt="Screenshot 2025-10-29 142930" src="https://github.com/user-attachments/assets/a7b07e28-d6b0-4532-9f25-eb5c0b21d733" />
